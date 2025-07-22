@@ -9,3 +9,5 @@ To run the program download the dataset, place them in a folder where the progra
 Also make sure the name of the dataset matches in the program.
 
 df = pd.read_csv('creditcard.csv')
+
+If any program gives error run each cell one by one from top to bottom.
